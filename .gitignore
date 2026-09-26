@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+letras-referencia.txt
+lyrics-normalized.txt
+prepare_assets.py
+finalize.py
+update_lyrics.py
+dist/assets/cartel.jpg

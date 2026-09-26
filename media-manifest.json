@@ -1,0 +1,168 @@
+{
+  "tracks": [
+    {
+      "title": "Mueve la Ley",
+      "version": "Versión 1",
+      "src": "assets/audio-01.mp3",
+      "original": "GARANTIAS Mueve la Ley v1.mp3"
+    },
+    {
+      "title": "La salud no espera",
+      "version": "Versión 2",
+      "src": "assets/audio-02.mp3",
+      "original": "GARANTIAS La salud no espera v2.mp3"
+    },
+    {
+      "title": "Sana, Sana",
+      "version": "Versión 1",
+      "src": "assets/audio-03.mp3",
+      "original": "GARANTIAS Sana, Sana v1.mp3"
+    },
+    {
+      "title": "Sana, Sana",
+      "version": "Versión 2",
+      "src": "assets/audio-04.mp3",
+      "original": "GARANTIAS Sana, Sana v2.mp3"
+    },
+    {
+      "title": "Se les acabó la función",
+      "version": "Versión 1",
+      "src": "assets/audio-05.mp3",
+      "original": "GARANTIAS Se les acabó la función v1.mp3"
+    },
+    {
+      "title": "Tu ley entra en mi casa",
+      "version": "Versión 2",
+      "src": "assets/audio-06.mp3",
+      "original": "GARANTIAS Tu ley entra en mi casa v2.mp3"
+    },
+    {
+      "title": "¿Quién queda?",
+      "version": "Versión 2",
+      "src": "assets/audio-07.mp3",
+      "original": "GARANTIAS ¿Quién queda_ v2.mp3"
+    },
+    {
+      "title": "Aquí falta usted",
+      "version": "Versión 1",
+      "src": "assets/audio-08.mp3",
+      "original": "GARANTIAS Aquí falta usted v1.mp3"
+    },
+    {
+      "title": "Déjame Curar",
+      "version": "Versión 2",
+      "src": "assets/audio-09.mp3",
+      "original": "GARANTIAS Déjame Curar v2.mp3"
+    },
+    {
+      "title": "Déjame Curar",
+      "version": "Versión 3",
+      "src": "assets/audio-10.mp3",
+      "original": "GARANTIAS Déjame Curar v3.mp3"
+    },
+    {
+      "title": "Déjanos Tratar",
+      "version": "Versión 1",
+      "src": "assets/audio-11.mp3",
+      "original": "GARANTIAS Déjanos Tratar v1.mp3"
+    },
+    {
+      "title": "Disculpe que le moleste",
+      "version": "Versión 4",
+      "src": "assets/audio-12.mp3",
+      "original": "GARANTIAS Disculpe que le moleste v4.mp3"
+    },
+    {
+      "title": "Hasta que se nos escuche",
+      "version": "Versión 1",
+      "src": "assets/audio-13.mp3",
+      "original": "GARANTIAS Hasta que se nos escuche v1.mp3"
+    },
+    {
+      "title": "Bajen al barro",
+      "version": "Versión 1",
+      "src": "assets/audio-14.mp3",
+      "original": "GARANTIAS Bajen al barro v1.mp3"
+    },
+    {
+      "title": "Bajen al barro",
+      "version": "Versión 3",
+      "src": "assets/audio-15.mp3",
+      "original": "GARANTIAS Bajen al barro v3.mp3"
+    },
+    {
+      "title": "Bajen al barro",
+      "version": "Versión 1 prueba",
+      "src": "assets/audio-16.mp3",
+      "original": "GARANTIAS Bajen al barro v1 prueba.mp3"
+    },
+    {
+      "title": "La reina de la guardia",
+      "version": "Versión 2",
+      "src": "assets/audio-17.mp3",
+      "original": "GARANTIAS La reina de la guardia v2.mp3"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Mueve la Ley",
+      "src": "assets/video-01.mp4",
+      "original": "GARANTIAS_01_mueve_la_ley_14O.mp4"
+    },
+    {
+      "title": "La salud no espera",
+      "src": "assets/video-02.mp4",
+      "original": "GARANTIAS_02_la_salud_no_espera_14O.mp4"
+    },
+    {
+      "title": "Sana, Sana",
+      "src": "assets/video-03.mp4",
+      "original": "GARANTIAS_03_sana_sana_14O.mp4"
+    },
+    {
+      "title": "Se les acabó la función",
+      "src": "assets/video-04.mp4",
+      "original": "GARANTIAS_04_se_les_acabo_la_funcion_14O.mp4"
+    },
+    {
+      "title": "Tu ley entra en mi casa",
+      "src": "assets/video-05.mp4",
+      "original": "GARANTIAS_05_tu_ley_entra_en_mi_casa_14O.mp4"
+    },
+    {
+      "title": "¿Quién queda?",
+      "src": "assets/video-06.mp4",
+      "original": "GARANTIAS_06_quien_queda_14O.mp4"
+    },
+    {
+      "title": "Aquí falta usted",
+      "src": "assets/video-07.mp4",
+      "original": "GARANTIAS_07_aqui_falta_usted_14O.mp4"
+    },
+    {
+      "title": "Déjame cuidar",
+      "src": "assets/video-08.mp4",
+      "original": "GARANTIAS_08_dejame_cuidar_14O.mp4"
+    },
+    {
+      "title": "Disculpe que le moleste",
+      "src": "assets/video-09.mp4",
+      "original": "GARANTIAS_09_disculpe_que_le_moleste_14O.mp4"
+    },
+    {
+      "title": "Hasta que se nos escuche",
+      "src": "assets/video-10.mp4",
+      "original": "GARANTIAS_10_hasta_que_se_nos_escuche_14O.mp4"
+    },
+    {
+      "title": "Bajen al barro · Short",
+      "src": "assets/video-11.mp4",
+      "original": "GARANTIAS_11_Short_Bajen_al_barro_9x16_HD.mp4"
+    },
+    {
+      "title": "La reina de la guardia · Short",
+      "src": "assets/video-12.mp4",
+      "original": "GARANTIAS_12_Short_La_reina_de_la_guardia_9x16_HD.mp4"
+    }
+  ]
+}
