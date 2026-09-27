@@ -1,7 +1,7 @@
 window.campaignMedia = {
   "tracks": [
     {
-      "title": "Mueve la Ley",
+      "title": "Mueve la ley",
       "version": "Versión 1",
       "src": "assets/audio-01.mp3",
       "original": "GARANTIAS Mueve la Ley v1.mp3"
@@ -13,13 +13,13 @@ window.campaignMedia = {
       "original": "GARANTIAS La salud no espera v2.mp3"
     },
     {
-      "title": "Sana, Sana",
+      "title": "Sana, sana",
       "version": "Versión 1",
       "src": "assets/audio-03.mp3",
       "original": "GARANTIAS Sana, Sana v1.mp3"
     },
     {
-      "title": "Sana, Sana",
+      "title": "Sana, sana",
       "version": "Versión 2",
       "src": "assets/audio-04.mp3",
       "original": "GARANTIAS Sana, Sana v2.mp3"
@@ -49,19 +49,19 @@ window.campaignMedia = {
       "original": "GARANTIAS Aquí falta usted v1.mp3"
     },
     {
-      "title": "Déjame Curar",
+      "title": "Déjame curar",
       "version": "Versión 2",
       "src": "assets/audio-09.mp3",
       "original": "GARANTIAS Déjame Curar v2.mp3"
     },
     {
-      "title": "Déjame Curar",
+      "title": "Déjame curar",
       "version": "Versión 3",
       "src": "assets/audio-10.mp3",
       "original": "GARANTIAS Déjame Curar v3.mp3"
     },
     {
-      "title": "Déjanos Tratar",
+      "title": "Déjanos tratar",
       "version": "Versión 1",
       "src": "assets/audio-11.mp3",
       "original": "GARANTIAS Déjanos Tratar v1.mp3"
@@ -91,12 +91,6 @@ window.campaignMedia = {
       "original": "GARANTIAS Bajen al barro v3.mp3"
     },
     {
-      "title": "Bajen al barro",
-      "version": "Versión 1 prueba",
-      "src": "assets/audio-16.mp3",
-      "original": "GARANTIAS Bajen al barro v1 prueba.mp3"
-    },
-    {
       "title": "La reina de la guardia",
       "version": "Versión 2",
       "src": "assets/audio-17.mp3",
@@ -105,7 +99,7 @@ window.campaignMedia = {
   ],
   "videos": [
     {
-      "title": "Mueve la Ley",
+      "title": "Mueve la ley",
       "src": "assets/video-01.mp4",
       "original": "GARANTIAS_01_mueve_la_ley_14O.mp4"
     },
@@ -115,7 +109,7 @@ window.campaignMedia = {
       "original": "GARANTIAS_02_la_salud_no_espera_14O.mp4"
     },
     {
-      "title": "Sana, Sana",
+      "title": "Sana, sana",
       "src": "assets/video-03.mp4",
       "original": "GARANTIAS_03_sana_sana_14O.mp4"
     },
@@ -140,7 +134,7 @@ window.campaignMedia = {
       "original": "GARANTIAS_07_aqui_falta_usted_14O.mp4"
     },
     {
-      "title": "Déjame cuidar",
+      "title": "Déjame curar",
       "src": "assets/video-08.mp4",
       "original": "GARANTIAS_08_dejame_cuidar_14O.mp4"
     },

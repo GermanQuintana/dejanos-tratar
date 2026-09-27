@@ -7,3 +7,5 @@ em{color:#ce4520}.voice-grid p,.issue-grid p,.editorial-note,.reference-grid p{f
 @media(max-width:780px){.date-card strong{gap:6px}.date-card strong span{font-size:22px}}
 @media(max-width:780px){.music-library{grid-template-columns:1fr;gap:0}.lyrics-panel{grid-column:1;grid-row:auto;order:1;margin-top:26px;padding:24px}.song-lyrics{max-height:400px}.music-library noscript{order:2}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}@media print{header,.hero-side,.ticker,.music-section,.actions,.skip{display:none}body{background:white}.wrap{width:100%}.section{padding:25px 0}.dark-section,.voices-section,.call-section{background:white;color:black}.dark-section p,.dark-section .source{color:black!important}.law-grid,.voice-grid{grid-template-columns:1fr 1fr}h1{font-size:70px}h2{font-size:40px}.call-date{position:static}a{overflow-wrap:anywhere}details>div{display:block}}
+
+.lyrics-note{font-size:.85rem;color:#53657a;margin:0 0 1rem}.lyrics-note:empty{display:none}
