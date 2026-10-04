@@ -167,6 +167,11 @@ window.campaignMedia = {
       "title": "Déjame tratar · Karaoke",
       "src": "assets/video-14.mp4",
       "original": "Dejame tratar KARAOKE.mp4"
+    },
+    {
+      "title": "Mueve la Ley · Karaoke",
+      "src": "assets/video-15.mp4",
+      "original": "Mueve_la_Ley_karaoke_ligero.mp4"
     }
   ]
 };
