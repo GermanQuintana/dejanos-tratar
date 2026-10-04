@@ -157,6 +157,16 @@ window.campaignMedia = {
       "title": "La reina de la guardia · Short",
       "src": "assets/video-12.mp4",
       "original": "GARANTIAS_12_Short_La_reina_de_la_guardia_9x16_HD.mp4"
+    },
+    {
+      "title": "La salud no espera · Karaoke",
+      "src": "assets/video-13.mp4",
+      "original": "La salud no espera KARAOKE.mp4"
+    },
+    {
+      "title": "Déjame tratar · Karaoke",
+      "src": "assets/video-14.mp4",
+      "original": "Dejame tratar KARAOKE.mp4"
     }
   ]
 };
